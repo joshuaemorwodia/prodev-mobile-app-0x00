@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native';
 
 import EditScreenInfo from '@/components/EditScreenInfo';
 import { Text, View } from '@/components/Themed';
+<Text className="text-2xl font-bold">** First App Created**</Text>
 
 export default function TabOneScreen() {
   return (
