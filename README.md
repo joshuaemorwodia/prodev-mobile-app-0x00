@@ -28,3 +28,17 @@
 ## ✅ Status
 
 Everything works. App is running on my phone. Project reset successfully.
+
+# prodev-mobile-app-0x00
+
+## 🚀 Scaffolding Steps
+- Ran `npx create-expo-app@latest .` inside the directory.
+- Selected template: **Blank**
+- Confirmed that package.json and app folder were created.
+
+## 🧪 Home Screen Modification
+- Opened `app/(tabs)/index.tsx`
+- Changed the `<Text>` inside the return to:
+  ```tsx
+  <Text style={styles.title}>** First App Created **</Text>
+
