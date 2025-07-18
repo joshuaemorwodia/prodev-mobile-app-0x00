@@ -1,3 +1,10 @@
+# prodev-mobile-app-0x00
+
+## 📱 Project Setup
+
+1. Created project directory:
+   ```bash
+   mkdir prodev-mobile-setup && cd prodev-mobile-setup
 # 📱 First Expo Router App Setup
 
 ## 🧩 Project Setup Steps
